@@ -41,7 +41,11 @@
                     "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/638322"],
                     "thumb": "http://img.logo-cdn.cc/skysportgolf.png",
 		    "title": "SKY SPORT GOLF"
-                }
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/638318"],
+                    "thumb": "http://img.logo-cdn.cc/skysportpremierleague.png",
+		    "title": "SKY SPORT PL HD"
+	    }
                 
             ]
         }
