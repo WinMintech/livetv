@@ -42,10 +42,102 @@
                     "thumb": "http://img.logo-cdn.cc/skysportgolf.png",
 		    "title": "SKY SPORT GOLF"
                 },{
-                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/638318"],
-                    "thumb": "http://img.logo-cdn.cc/skysportpremierleague.png",
-		    "title": "SKY SPORT PL HD"
-	    }
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362757"],
+                    "thumb": "https://img.logo-cdn.cc/nbcsportsbayarea.png",
+		    "title": "NBC SPORTS "
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362763"],
+                    "thumb": "https://img.logo-cdn.cc/nbcsportsnetwork.png",
+		    "title": "NBC NETWORK"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1505814"],
+                    "thumb": "https://img.logo-cdn.cc/beinsports.png",
+		    "title": "BEIN SPORTS 1"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1505815"],
+                    "thumb": "https://img.logo-cdn.cc/beinsports.png",
+		    "title": "BEIN SPORTS 3"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362747"],
+                    "thumb": "https://img.logo-cdn.cc/beinsports.png",
+		    "title": "BEIN SPORTS HD"
+                }{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362749"],
+                    "thumb": "https://img.logo-cdn.cc/beinsports4.png",
+		    "title": "BEIN SPORTS 4"
+                }{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362750"],
+                    "thumb": "https://img.logo-cdn.cc/beinsports5.png",
+		    "title": "BEIN SPORTS 5 "
+                }{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362751"],
+                    "thumb": "https://img.logo-cdn.cc/beinsports6.png",
+		    "title": "BEIN SPORTS 6"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362752"],
+                    "thumb": "https://img.logo-cdn.cc/beinsports7.png",
+		    "title": "BEIN SPORTS 7 "
+                }{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362753"],
+                    "thumb": "https://img.logo-cdn.cc/beinsports8.png",
+		    "title": "BEIN SPORTS 8"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/362755"],
+                    "thumb": "https://img.logo-cdn.cc/beinsportslaliga.png",
+		    "title": "BEIN LALIGA HD"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/101043"],
+                    "thumb": "https://img.logo-cdn.cc/skysport.png",
+		    "title": "SKY SPORTS ACTION"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1449263"],
+                    "thumb": "http://img.logo-cdn.cc/tnt.png",
+		    "title": "TNT EVENT 7"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1449262"],
+                    "thumb": "http://img.logo-cdn.cc/tnt.png",
+		    "title": "TNT EVENT 6"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1449261"],
+                    "thumb": "http://img.logo-cdn.cc/tnt.png",
+		    "title": "TNT EVENT 5"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1449260"],
+                    "thumb": "http://img.logo-cdn.cc/tnt.png",
+		    "title": "TNT EVENT 4"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1449259"],
+                    "thumb": "http://img.logo-cdn.cc/tnt.png",
+		    "title": "TNT EVENT 3"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1449258"],
+                    "thumb": "http://img.logo-cdn.cc/skysportgolf.png",
+		    "title": "TNT EVENT 2"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/1449257"],
+                    "thumb": "http://img.logo-cdn.cc/tnt.png",
+		    "title": "TNT EVENT 1"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/746011"],
+                    "thumb": "https://img.logo-cdn.cc/skysport.png",
+		    "title": "SKY SPORTS MIX"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/101023"],
+                    "thumb": "https://img.logo-cdn.cc/skysport.png",
+		    "title": "MAIN EVENT"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/101022"],
+                    "thumb": "https://img.logo-cdn.cc/skysport.png",
+		    "title": "PREMIER LEAGUE"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/747378"],
+                    "thumb": "https://img.logo-cdn.cc/skysport.png",
+		    "title": "SKY FOOTBALL SD"
+                },{
+                    "sources": ["http://line.4k-beast.co:80/529C1C/7446D7/101021"],
+                    "thumb": "https://img.logo-cdn.cc/skysport.png",
+		    "title": "SKY FOOTBALL HD"
+                }
                 
             ]
         }
